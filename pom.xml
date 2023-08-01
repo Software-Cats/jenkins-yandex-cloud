@@ -42,7 +42,7 @@
         <revision>1.0.0</revision>
         <changelist>-SNAPSHOT</changelist>
         <jenkins.version>2.387.3</jenkins.version>
-        <grpc.version>1.48.1</grpc.version>
+        <grpc.version>1.57.0</grpc.version>
         <scmTag>HEAD</scmTag>
     </properties>
 
